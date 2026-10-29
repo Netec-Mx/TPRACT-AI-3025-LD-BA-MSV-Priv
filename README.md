@@ -1,0 +1,2 @@
+# 261028-TPRACT-AI-3025-LD-BA-MSV-Priv
+Laboratorios del curso 261028-TPRACT-AI-3025-LD-BA-MSV-Priv
