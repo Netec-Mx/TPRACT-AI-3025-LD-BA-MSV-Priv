@@ -18,7 +18,6 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 #### [Práctica 1. Instrucciones efectivas para situaciones bancarias](Capitulo01/README.md)
 
 - Descripción: Formular y mejorar un prompt para explicar a un productor agrícola los pasos generales de una solicitud de crédito. Comparar las respuestas e identificar la información que requiere verificación institucional.
-- Entregable: Prompt mejorado y respuesta revisada al cliente.
 - ⏱️ Duración estimada: 20 min.
 
 ### Capítulo 2. Práctica: comunicaciones claras para clientes agrícolas
@@ -26,7 +25,6 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 #### [Práctica 2. Comunicaciones claras para clientes agrícolas](Capitulo02/README.md)
 
 - Descripción: Elaborar un correo para solicitar documentos faltantes, convertirlo en un recordatorio breve y traducirlo a otro idioma, revisando el sentido, el tono y la terminología.
-- Entregable: Correo, recordatorio y traducción validados.
 - ⏱️ Duración estimada: 25 min.
 
 ### Capítulo 3. Práctica: preparación de propuestas y respuestas comerciales
@@ -34,7 +32,6 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 #### [Práctica 3. Preparación de propuestas y respuestas comerciales](Capitulo03/README.md)
 
 - Descripción: Preparar una respuesta comercial para una asociación de productores utilizando una ficha ficticia de condiciones. Organizar preguntas frecuentes y corregir afirmaciones sin respaldo, evitando inventar tasas, requisitos o compromisos.
-- Entregable: Borrador de propuesta y lista de puntos por validar.
 - ⏱️ Duración estimada: 25 min.
 
 ### Capítulo 4. Práctica: acuerdos de reuniones y seguimiento
@@ -42,7 +39,6 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 #### [Práctica 4. Acuerdos de reuniones y seguimiento](Capitulo04/README.md)
 
 - Descripción: Transformar una minuta de reunión simulada en acuerdos, responsables y actividades priorizadas. Comprobar que las tareas correspondan a la información original y no incorporen decisiones inventadas.
-- Entregable: Minuta estructurada y tablero/lista de tareas.
 - ⏱️ Duración estimada: 25 min.
 
 ### Capítulo 5. Práctica: aprendizaje y evaluación interna
@@ -50,7 +46,6 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 #### [Práctica 5. Aprendizaje y evaluación interna](Capitulo05/README.md)
 
 - Descripción: Crear una guía de inducción y un cuestionario sobre buenas prácticas de atención a clientes rurales. Revisar las preguntas y sus respuestas contra la guía institucional ficticia utilizada como fuente.
-- Entregable: Guía de inducción y cuestionario de cinco preguntas con respuestas.
 - ⏱️ Duración estimada: 25 min.
 
 
