@@ -1,5 +1,5 @@
 <a href="https://netec.com">
-  <img src="assets/LogoNetec.png" alt="Logo de Netec" width="300"/>
+  <img src="https://static.wixstatic.com/media/96edd2_934dddb3230b4b16b1d1c56c51143738~mv2.png" alt="Logo de Netec" width="300"/>
 </a>
 
 # Taller práctico de productividad con Microsoft Copilot y agentes de IA
@@ -49,10 +49,14 @@ Antes de comenzar, consultar la **[Setup Guide general](SETUP_GUIDE.md)** para v
 - **Descripción:** crear una guía de inducción y cinco preguntas de comprobación sustentadas en un documento de aprendizaje ficticio.
 - **Duración:** 25 minutos (10 + 10 + 5).
 
-**Total: 20 + 25 + 25 + 25 + 25 = 120 minutos.**
+
+## 📬 **Contacto y más información**
+
+
+Si tienes alguna pregunta o necesitas más detalles, no dudes en [contactarnos](mailto:soporte@netec.com). También puedes encontrar más recursos en nuestra [página](https://netec.com).
+
 
 ---
 
-## Contacto y más información
 
-Para consultas sobre la plataforma de capacitación, visitar [Netec](https://netec.com) o escribir a [soporte@netec.com](mailto:soporte@netec.com).
+¡Gracias por visitar nuestra plataforma! No olvides revisar todos los laboratorios y comenzar tu viaje de aprendizaje hoy mismo.
